@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = inessoliveir@gmail.com
+	name = Ines de Sousa Oliveira
